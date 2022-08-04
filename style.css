@@ -36,13 +36,11 @@
 }
 
 .header-desc__p {
-    font-family: "Kalam";
     margin-bottom: 8px;
     font-size: 18px;
 }
 
 .header-desc__p_color-orange {
-    font-family: "Kalam";
     color: #BC4C2D;
     margin-bottom: 50px;
 }
@@ -100,7 +98,6 @@
 }
 
 .section-3__register-text {
-    font-family: "Kalam";
     font-size: 35px;
     color: white;
 }
@@ -212,7 +209,6 @@
 }
 
 .footer__copy-desc {
-    font-family: "Kalam";
     color: #a3a3a3;
     margin-bottom: 50px;
 }
